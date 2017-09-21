@@ -6,4 +6,6 @@ Practice with HTML, CSS, and Javascript.
 Homepage (index.html) with links to the other pages.
 
 Contact form that submits name, email, and a message to http://www.stonecoldprofessor.com/1430/pizza-form/contact-process.php
-  # the above URL is just a site my class is using for testing
+  -- the above URL is just a site my class is using for testing
+
+This site is currently hosted at: https://cool1430.000webhostapp.com/csis1430/pizza-1/
